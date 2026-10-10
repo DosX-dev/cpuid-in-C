@@ -5,4 +5,5 @@ An example of identifying a processor through the "cpuid" instruction (is used t
 ![](screen.png)
 
 > [!TIP]
-> Build with [TinyCC for Windows](https://github.com/DosX-dev/TinyCC-builder/releases/latest). Includes a tool to automatically download and update [obfus.h](https://github.com/DosX-dev/obfus.h) for protecting your own C projects.
+> Build with **[TinyCC for Windows](https://github.com/DosX-dev/TinyCC-builder/releases/latest)**. Includes a tool to automatically
+> download and update **[obfus.h](https://github.com/DosX-dev/obfus.h)** for protecting your own C projects.
